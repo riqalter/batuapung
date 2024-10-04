@@ -1,0 +1,10 @@
+h1 {
+    color: blue;
+    font-size: 5rem;
+    text-decoration: overline underline;
+}
+
+button {
+    background-color: aqua;
+    color: red;
+}
